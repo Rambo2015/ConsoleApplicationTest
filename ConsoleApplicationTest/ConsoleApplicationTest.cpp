@@ -35,7 +35,6 @@ template <typename S> S max(S array[], int len){
 }
 int _tmain(int argc, _TCHAR* argv[])
 {
-	// Ö÷º¯Êý
 	int i = 100;
 	int j = 0;
 	try{
